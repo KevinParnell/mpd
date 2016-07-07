@@ -1,9 +1,8 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: play
-current: 60
-time: 83.040000
+state: stop
+current: 52
 random: 1
 repeat: 1
 single: 0
@@ -75,4 +74,14 @@ playlist_begin
 60:Push - Thousand Foot Krutch.mp3
 61:Running With Giants - Thousnad Foot Krutch.mp3
 62:The River - Thousand Foot Krutch.mp3
+63:Christians Inferno - Green Day.mp3
+64:Somebody Told Me - The Killers.mp3
+65:Flagpole Sitta - Harvey Danger.mp3
+66:21 Guns - Green Day.mp3
+67:Boulevard of Broken Dreams - Green Day.mp3
+68:Brain Stew - Green Day.mp3
+69:Hitchin' a Ride.mp3
+70:Jesus of Suburbia - Green Day.mp3
+71:Somebody Told Me - The Killers.mp3
+72:Hitchin' a Ride.mp3
 playlist_end
